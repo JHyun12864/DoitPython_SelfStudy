@@ -10,3 +10,5 @@ result = sorted(students, key=itemgetter(1))
 print(type(result))
 print(result)
 print("students의 type : ",type(students)) # list
+
+#test1
